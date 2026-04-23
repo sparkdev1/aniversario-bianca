@@ -8,40 +8,38 @@ export const Route = createFileRoute("/")({
 });
 
 const paragrafos: { text: string; highlight?: boolean }[] = [
+  { text: "Feliz aniversário meu amor!!!!" },
   {
-    text: "Feliz aniversário, meu amor!!!!",
+    text: "Bom acho que é minha primeira vez escrevendo esse tipo de texto e queria que fosse do coração, então não estranhe se algo soar confuso kkkkk",
   },
   {
-    text: "Bom… acho que é minha primeira vez escrevendo esse tipo de texto, e queria que fosse do coração — então não estranha se algo soar confuso, tá? hahaha",
+    text: "Hoje é seu dia em, quem diria que aquela garotinha que eu achei tão irritante no começo seria a pessoa com qual eu escolheria compartilhar a vida,",
   },
   {
-    text: "Hoje é o seu dia. Quem diria que aquela garotinha que eu achei tão irritante no começo seria a pessoa com quem eu escolheria compartilhar a vida.",
+    text: "e durante esse ano, tenho tido o prazer de passar cada dia ao seu lado conhecendo cada vez mais a Bianca e gostando cada dia mais de cada detalhe do seu jeito.",
   },
   {
-    text: "Durante esse ano, eu tive o prazer de passar cada dia ao seu lado, conhecendo cada vez mais a Bianca — e gostando cada dia mais de cada detalhe do seu jeito.",
+    text: "Queria agradecer também pela paciência que você tem comigo que, por mais que a gente tenha nossas intrigas as vezes, você me faz querer ficar sempre.",
   },
   {
-    text: "Queria te agradecer pela paciência que você tem comigo. Por mais que a gente tenha nossas intrigas às vezes, você me faz querer ficar. Sempre.",
+    text: "Eu sou muito grato por isso, pois não sei mais viver sem você, sem sentir a vontade de compartilhar cada vírgula do dia contigo e me entrosar com sua rotina.",
   },
   {
-    text: "Eu sou muito grato por isso, porque não sei mais viver sem você. Sem essa vontade de compartilhar cada vírgula do dia contigo e me entrosar com a sua rotina.",
+    text: "Você não sabe como me sinto realizado ao seu lado, mesmo que seja você dormindo tranquilamente do meu lado, ou acordada enchendo meu saco ou atentando o dia todo, você é uma mulher incrível e a única que me faz sentir essas coisas.",
   },
   {
-    text: "Você não imagina o quanto eu me sinto realizado do seu lado. Seja você dormindo tranquilamente, seja acordada enchendo meu saco e atentando o dia inteiro — você é uma mulher incrível. E a única que me faz sentir essas coisas.",
+    text: "Esse vai ser o primeiro aniversário seu de muitos outros que vamos passar juntos, e eu quero cada vez mais caprichar nos presentes kkkkkk",
   },
   {
-    text: "Esse vai ser o primeiro dos muitos aniversários que ainda vamos passar juntos. E eu prometo caprichar cada vez mais nos presentes 😄",
-  },
-  {
-    text: "Olha… é difícil viu, lembrar de tantos momentos e não se emocionar. Meu olho chega a encher de gotas de testo 😭💧",
+    text: "Bom, olha, é dificil viu, lembrar de tantos momentos e não se emocionar... olho chega a encher de gotas de testo kkkk,",
     highlight: true,
   },
   {
-    text: "Mas enfim — não vou te fazer atrasar pro trabalho lendo um e-book de amores 📖💕",
+    text: "mas enfim não vou fazer você se atrasar pro trabalho lendo um e-book de amores,",
     highlight: true,
   },
   {
-    text: "Como você não escolheu o presente, e eu sei o quanto esse dia é importante pra você, comprei uma lembrancinha. O resto a gente escolhe junto, o que acha?",
+    text: "como você não escolheu o presente pro dia, que eu sei que é importante pra você, eu comprei uma lembrancinha e podemos escolher o que você quiser depois, o que acha?",
   },
 ];
 
