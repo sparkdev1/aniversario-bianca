@@ -64,7 +64,7 @@ function Hero() {
       </p>
       <h1 className="font-serif text-6xl italic leading-tight text-foreground sm:text-7xl md:text-8xl">
         Para: Bianca
-        <span className="ml-2 inline-block">💖</span>
+        <span className="ml-2 inline-block">💝</span>
       </h1>
       <p className="mt-8 max-w-xs text-base text-muted-foreground sm:text-lg">
         Role devagar. Cada palavra é pra você.
@@ -199,7 +199,7 @@ function Finale() {
             />
           </div>
           <p className="mt-6 text-center font-serif text-xl italic text-muted-foreground">
-            …e o resto a gente escolhe junto. 💝
+            …e o resto a gente escolhe junto. 
           </p>
         </div>
       </div>
@@ -225,7 +225,7 @@ function Footer() {
         <p className="mt-8 text-sm uppercase tracking-[0.4em] text-muted-foreground">
           Feliz aniversário, meu amor
         </p>
-        <p className="mt-2 text-2xl">💖</p>
+        <p className="mt-2 text-2xl"></p>
       </div>
     </section>
   );
