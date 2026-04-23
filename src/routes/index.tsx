@@ -1,11 +1,6 @@
-import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useRef, useState } from "react";
 import confetti from "canvas-confetti";
 import presenteImg from "@/assets/presente-bianca.png";
-
-export const Route = createFileRoute("/")({
-  component: Index,
-});
 
 const paragrafos: { text: string; highlight?: boolean }[] = [
   { text: "Feliz aniversário meu amor!!!!" },
@@ -55,6 +50,8 @@ function Index() {
     </main>
   );
 }
+
+export default Index;
 
 function Hero() {
   return (
